@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi, I'm Yuxuan Lu 👋
 
 🎓 Undergraduate student in Mechanical Engineering at Tongji University  
@@ -91,5 +89,5 @@ I am also working on engineering research involving fuel cell bipolar plate anal
 
 ## 📫 Contact
 
-- GitHub: [@Hazzard-LYX](https://github.com/Hazzard-LYX)
-- Email: 645667922@qq.com
+- GitHub: [@Hazzard-LYX](https://github.com/Hazzzard-LYX)
+- Email: 645667922@qq.com/2353023@tongji.edu.cn
