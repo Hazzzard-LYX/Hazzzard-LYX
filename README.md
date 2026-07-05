@@ -1,4 +1,4 @@
-# Hi, I'm Yuxuan Lu 👋 Just call me Hazzard
+# Hi, I'm Yuxuan Lu 👋
 
 🎓 Undergraduate student in Mechanical Engineering at Tongji University  
 🤖 Working on robotics, simulation, perception, and engineering data analysis  
