@@ -39,27 +39,19 @@ A robotics course project implementing LiDAR-based localization, grid-map naviga
 
 ---
 
-### 🌊 Fuel Cell Bipolar Plate Surface Analysis
-
-Image-processing-based surface morphology analysis for fuel cell bipolar plates using moiré-pattern features and regression models.
-
-**Keywords:** Image Processing, Moiré Pattern, Surface Analysis, Regression, Fuel Cell
-
----
-
-### 🧱 Large-Area Bipolar Plate Stacking Optimization
-
-Finite element and geometry-based analysis for deformation accumulation and contact behavior in stacked large-area bipolar plates.
-
-**Keywords:** Abaqus, Finite Element Analysis, Contact Analysis, Bipolar Plate, Engineering Optimization
-
----
-
 ### 🚗 AGV Path Planning and Scheduling Simulation
 
 AGV selection, routing, and scheduling simulation for an industrial drying production line.
 
 **Keywords:** AGV, Scheduling, Path Planning, Industrial Simulation, Isaac Sim
+
+---
+
+### 🌊 Fuel Cell Bipolar Plate Surface Analysis
+
+Image-processing-based surface morphology analysis for fuel cell bipolar plates using moiré-pattern features and regression models.
+
+**Keywords:** Image Processing, Moiré Pattern, Surface Analysis, Regression, Fuel Cell
 
 ---
 
