@@ -22,12 +22,12 @@ My current interests include humanoid robot manipulation, whole-body control, re
 
 ## 🚀 Featured Projects
 
-### 🦿 Humanoid Manipulation with Isaac Lab
+### 🦿 H1 Velocity Tracking Sim-to-Sim
 
-Simulation-based reinforcement learning for humanoid manipulation using Unitree H1 in Isaac Lab.  
-The project explores whole-body coordination, manipulation stability, and policy learning for humanoid robots.
+Sim-to-sim transfer experiment for Unitree H1 velocity tracking, based on Unitree RL Lab and Isaac Lab.  
+The project exports a trained H1 locomotion policy from Isaac Lab / RSL-RL to ONNX and validates its rollout in MuJoCo, focusing on policy deployment, joint/action mapping, and simulation consistency.
 
-**Keywords:** Isaac Lab, Isaac Sim, Unitree H1, Reinforcement Learning, Humanoid Robotics
+**Keywords:** Unitree H1, Isaac Lab, MuJoCo, Sim-to-Sim, Velocity Tracking, Reinforcement Learning, ONNX
 
 ---
 
